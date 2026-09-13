@@ -2,6 +2,7 @@
 # Default content for `src/layouts/components/ServicesSingle.astro`.
 # The service sidebar list is generated from the services collection.
 # `contact` feeds `src/layouts/components/widgets/ServicesSingleCta.astro`.
+enable: false
 contact:
   icon: "Headset"
   title: "N'hésitez pas à nous contacter"

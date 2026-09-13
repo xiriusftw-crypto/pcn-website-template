@@ -19,26 +19,26 @@ options:
 list:
   - enable: true
     content: |
-      "We helped us replace disconnected tools with one reliable platform. The team understood our workflow, delivered clean implementation, and made launch support feel simple."
+      "Before I was having everyday trouble with my home WiFi, saddening speeds, big bills, then I switched to PCN, and life just did a complete 360! I am still ashamed for paying such big bills while I could have opted PCN long before."
     customer:
-      name: "Alexander Cameron"
-      role: "Lead Developer"
+      name: "Biswajit Mandal"
+      role: "Broadband User"
   - enable: true
     content: |
-      "Their engineers brought structure to a complex product rebuild. We now have faster releases, clearer dashboards, and a system our internal team can maintain."
+      "These guys know how to do magic, as a fellow partner in their Underground OFC and Fiber Laying project, I doubt anyone in the whole of North Bengal can do work as neatly as them."
     customer:
-      name: "Brooklyn Simmons"
-      role: "Lead Developer"
+      name: "Moloy Dhar"
+      role: "Business Propetior"
   - enable: true
     content: |
-      Your strategic planning helped us streamline operations and unlock new market opportunities. We've seen a remarkable increase in revenue within the last year.
+      Amazing customer support, my network was down due to a thunderstorm overnight, by the time I would even notice, they called me and apologized for the inconvenience, which I didn't even had to face! Lightwork. 
     customer:
-      name: "Michael Thompson"
-      role: "CEO"
+      name: "Mrinmoy Das"
+      role: "Broadband User"
   - enable: true
     content: |
-      The data-driven approach of your team was instrumental in optimizing our production processes. We've achieved significant cost savings while maintaining sustainability goals
+      My company was looking for a service provider for their new office and I personally recommended these guys, fast forward 6 months, no weekly argument with the ISP, just smooth sailing work.
     customer:
-      name: "Sarah Jones"
-      role: "Head of Engineering"
+      name: "Samuel Oriaon"
+      role: "SME User"
 ---

@@ -7,7 +7,7 @@ list:
     description: "We clarify goals, risks, users, timelines, and the technical path forward."
     image: "/images/process/step-01.png"
   - title: "Execution & Development"
-    description: "We design, build, integrate, and review each milestone with your team."
+    description: "We plan, project, integrate, and review each milestone with the team."
     image: "/images/process/step-02.png"
   - title: "Testing & Maintenance"
     description: "We validate performance, fix issues, document systems, and support launch."

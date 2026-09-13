@@ -1,5 +1,5 @@
 ---
-enable: true # Control the visibility of this section across all pages where it is used
+enable: false # Control the visibility of this section across all pages where it is used
 title: "Un projet en tête ?"
 description: "Parfait ! Nous sommes ravis d'avoir de vos nouvelles, lançons-nous ensemble"
 officeHours: "Heures d'ouverture : lun. - sam. : 8h00 - 22h00" # Optional; remove or set empty to hide this row.

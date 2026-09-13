@@ -1,4 +1,5 @@
 ---
+enable: false
 title: "Blog"
 image: "/images/blog/blog-header.png"
 metaDescription: "Read practical articles on software delivery, cloud operations, cybersecurity, automation, and digital strategy."

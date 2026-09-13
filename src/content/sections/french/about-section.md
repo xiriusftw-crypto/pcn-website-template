@@ -1,5 +1,5 @@
 ---
-enable: true # Boolean: true | false
+enable: false # Boolean: true | false
 imagePosition: "left" # Enum: left | right
 
 images:

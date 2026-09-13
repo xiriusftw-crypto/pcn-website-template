@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Construisons ensemble un projet exceptionnel"
 description: "Partagez vos objectifs avec notre équipe et nous vous aiderons à définir la bonne stratégie, le périmètre et le plan de livraison de votre prochain projet technologique."
 officeHours: "Heures d'ouverture : lun. - sam. : 8h00 - 22h00"

@@ -7,12 +7,11 @@ images:
   small: "/images/skill/skill-2.jpg"
 
 title: |
-  We provide perfect IT solutions & technology
+  We provide perfect IT & Financial solutions
 subtitle: |
-  Our team helps startups move from idea to launch with reliable systems, clear priorities, and practical technical support.
+  With a team deadset on providing the best of services, we make sure to set clear priorities and goals to provide to unique needs.
 description: |
-  We plan, design, build, and optimize digital products that are easy for teams to manage and ready for future growth.
-
+  We plan, project and provide, always ready to optimize and harbor future choices and potential.
 # EXTRATYPE OPTIONS: "skills" | "list-x" | "list-y" | "stats" | "none"
 extraType: "list-x"
 
