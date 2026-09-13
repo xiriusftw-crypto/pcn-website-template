@@ -1,9 +1,9 @@
 # Site Configuration
 [site]
-  title            = "Techlo Lite" # Shared title for SEO and OpenGraph
-  description      = "Techlo Lite is a free IT solutions and services theme for managed IT services, cloud consulting, cybersecurity, software development, and digital transformation websites." # Shared description for SEO and OpenGraph
-  tagline          = "Free IT Solutions & Services Astro & Tailwind CSS Theme"
-  taglineSeparator = "" # default is " - " 
+  title            = "PCN Communication" # Shared title for SEO and OpenGraph
+  description      = "PCN Communication is a IT and Financial Services provider, based in North Bengal." # Shared description for SEO and OpenGraph
+  tagline          = "Connecting people and aspirations."
+  taglineSeparator = "" # default is " - "
   baseUrl          = "https://techlo-lite-astro.pages.dev/" # Base URL for the site and used in OpenGraph meta tags.
   logo             = "/images/logo.svg" # Path to the site's logo
   logoAlternate    = "" # Path to the site's logo
@@ -25,14 +25,14 @@
 # Specific SEO configurations that complement the general site settings.
 # -----------------------------------------------------------------------------------------------------------------------------------
 [seo]
-  author = "Getastrothemes"
+  author = "pcncommunication"
   keywords = [
-    "astro technology template",
-    "astro template",
-    "astro theme",
-    "free astro theme",
-    "it solution theme",
-    "technology astro theme",
+    "IT Services",
+    "Financial Services",
+    "North Bengal",
+    "Siliguri",
+    "Broadband provider",
+    "loaning agency",
   ]
   robots = "index, follow" # Instructs search engines on how to crawl and index the pages.
 
@@ -119,9 +119,9 @@
 
   # Global Contact Information
   [settings.contactInfo]
-    phone       = "[518-564-3200](tel:5185643200)"
-    email       = "[hello@example.com](mailto:hello@example.com)"
-    address     = "1791 Yorkshire Circle Kitty <br /> Hawk, NC 279499"
+    phone       = "[(+91) 7797971747](tel:7797971747)"
+    email       = "[info@pcncommunication.com](mailto:info@pcncommunication.com)"
+    address     = "South Birnagar, Raiganj <br /> Uttar Dinajpur, West Bengal 733134"
     officeHours = "Office Hours: 8:00 AM – 10:00 PM"
 
   # Header Offcanvas Configuration

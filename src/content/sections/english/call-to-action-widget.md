@@ -5,7 +5,7 @@
 contact:
   icon: "Headset"
   title: "Don't hesitate to contact us"
-  description: "At our IT solution company, we are committed to exceptional service and reliable support."
+  description: "At our IT and Finance solution company, we are committed to exceptional service and reliable support."
   button:
     # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options
     enable: true

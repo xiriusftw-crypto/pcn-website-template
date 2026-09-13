@@ -44,12 +44,12 @@
       ]
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Blog",
       "url": "/blog/"
     },
     {
-      "enable": true,
+      "enable": false,
       "name": "Team",
       "url": "/team/"
     }
@@ -59,28 +59,28 @@
       "label": "Quick Links",
       "list": [
         {
-          "enable": true,
+          "enable": false,
           "name": "Our Team",
           "url": "/team/",
           "active": true
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Blogs",
           "url": "/blog/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "About Us",
           "url": "#"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Careers",
           "url": "#"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Contact",
           "url": "#"
         }
@@ -91,26 +91,26 @@
       "list": [
         {
           "enable": true,
-          "name": "UI/UX Design",
-          "url": "/services/service-05/"
+          "name": "Broadband Services",
+          "url": "/services/broadband-services/"
         },
         {
           "enable": true,
-          "name": "App Development",
-          "url": "/services/service-02/"
+          "name": "Financial Services – Direct Sales Agency (DSA)",
+          "url": "/services/financial-services-dsa/"
         },
         {
           "enable": true,
-          "name": "Digital Marketing",
-          "url": "/services/service-03/"
+          "name": "Financial Services – Commercial & Consumer Loaning",
+          "url": "/services/financial-services-ccl/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Web Development",
           "url": "/services/service-02/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Cyber Security",
           "url": "/services/service-06/"
         }
@@ -125,7 +125,7 @@
           "url": "/services/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Latest Posts",
           "url": "/blog/"
         },
