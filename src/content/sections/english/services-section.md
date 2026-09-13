@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Our awesome services to <br/> give you success"
+title: "Services spanning across multiple sectors:"
 
 button:
   # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)

@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "We provide best tech solutions for your business"
-description: "We are architects of innovation, trailblazers of technological advancement, and partners in your success. As a dynamic and forward-thinking organization"
+title: "PCN Communication is here to fill your service needs."
+description: "Based in North bengal, PCN Communication is a pioneer in IT and Financial services, providing feasible and affordable services acrosss Bengal."
 mapImage: "/images/banner/map.svg"
 gradientBackgroundImage: "/images/banner/home-three-gradient-bg.svg"
 

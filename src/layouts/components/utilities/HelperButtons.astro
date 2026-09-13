@@ -12,29 +12,6 @@ const themeName = path.basename(projectRoot);
 const proThemeName = themeName.replace("-lite", "");
 const buyLink = `https://getastrothemes.com/astro-themes/${proThemeName}/?initiate-checkout=true`;
 ---
-
-<div
-  id="action-buttons"
-  class="pointer-events-none fixed right-0 bottom-5 z-100 flex flex-col space-y-2 rounded-lg bg-white p-2 text-center opacity-0 transition-all duration-300 [&.scroll-down]:pointer-events-auto [&.scroll-down]:right-5 [&.scroll-down]:opacity-100">
-  <Button
-    url={buyLink}
-    target="_blank"
-    hoverEffect="text-flip"
-    label="Buy Pro Version"
-    data-cursor-label="Buy Pro Version"
-    data-cursor-type="button"
-  />
-  <Button
-    variant="outline"
-    url={`https://getastrothemes.com/astro-themes/${themeName}/`}
-    target="_blank"
-    hoverEffect="text-flip"
-    label="Download Now"
-    data-cursor-label="Download Now"
-    data-cursor-type="button"
-  />
-</div>
-
 <script>
   // Hide buttons in iframe
   function isInIframe() {
