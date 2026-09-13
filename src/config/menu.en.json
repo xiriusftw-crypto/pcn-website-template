@@ -18,26 +18,26 @@
         },
         {
           "enable": true,
-          "name": "Web & Mobile App Development",
-          "url": "/services/service-02/"
+          "name": "Broadband Services",
+          "url": "/services/broadband-services/"
         },
         {
           "enable": true,
-          "name": "UI/UX & Branding Identity",
-          "url": "/services/service-05/"
+          "name": "Financial Services (DSA)",
+          "url": "/services/financial-services-dsa/"
         },
         {
           "enable": true,
-          "name": "Digital Marketing",
-          "url": "/services/service-03/"
+          "name": "Financial Services (CCL)",
+          "url": "/services/financial-services-ccl/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Cyber Security Solutions",
           "url": "/services/service-06/"
         },
         {
-          "enable": true,
+          "enable": false,
           "name": "Cloud Migration & DevOps",
           "url": "/services/service-07/"
         }
@@ -96,12 +96,12 @@
         },
         {
           "enable": true,
-          "name": "Financial Services – Direct Sales Agency (DSA)",
+          "name": "Financial Services (DSA)",
           "url": "/services/financial-services-dsa/"
         },
         {
           "enable": true,
-          "name": "Financial Services – Commercial & Consumer Loaning",
+          "name": "Financial Services (CCL)",
           "url": "/services/financial-services-ccl/"
         },
         {
