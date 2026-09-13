@@ -59,7 +59,7 @@
       "label": "Quick Links",
       "list": [
         {
-          "enable": false,
+          "enable": true,
           "name": "Our Team",
           "url": "/team/",
           "active": true
