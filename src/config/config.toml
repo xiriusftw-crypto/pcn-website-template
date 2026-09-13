@@ -7,7 +7,7 @@
   baseUrl          = "https://techlo-lite-astro.pages.dev/" # Base URL for the site and used in OpenGraph meta tags.
   logo             = "/images/logo.svg" # Path to the site's logo
   logoAlternate    = "" # Path to the site's logo
-  logoText         = "Techlo" # Text displayed next to the logo
+  logoText         = "PCN" # Text displayed next to the logo
   logoWidth        = "24px" # Width of the logo
   logoHeight       = "36px" # Height of the logo
 
