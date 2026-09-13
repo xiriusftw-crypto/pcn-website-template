@@ -1,6 +1,6 @@
 ---
 title: "Our Services"
-metaDescription: "Browse our IT services, including app development, cybersecurity, cloud, automation, and support."
+metaDescription: "Browse our IT, Financial and infrastructure services."
 draft: false
 
 # Override Default Content of `/sections/services-section.md` showing in services list page
