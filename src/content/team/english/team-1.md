@@ -1,14 +1,14 @@
 ---
-title: "Daniyel Karlos"
-customSlug: "daniyel-karlos"
+title: "Pintu Dey"
+customSlug: "pintu-dey"
 # Use transparent .png portraits for the best professional gradient background result.
-image: "/images/team/1.png"
-profession: "Web Developer"
-metaDescription: "Web developer focused on accessible interfaces, frontend architecture, and reliable product delivery."
+image: "/images/team/1.1.png"
+profession: "Director"
+metaDescription: "The one spear heading the entire company."
 draft: false
 
-email: "daniyel.karlos42@gmail.com"
-phone: "+1 415 555 2387"
+email: "pintu@pcncommunication.com"
+phone: "+91 8617495133"
 
 social:
   - enable: true
@@ -29,6 +29,4 @@ social:
     url: "https://www.linkedin.com/company/example-company"
 ---
 
-Daniyel builds responsive web experiences for SaaS platforms, service companies, and internal product teams. His work focuses on clean structure, performance, accessibility, and long-term maintainability.
-
-He works closely with designers and backend teams to turn ideas into polished, production-ready interfaces.
+The one person who made this dream come true, Pintu Dey comes from the town of Raiganj, aiming to create one of the biggest service providing xompanies in all of India.
