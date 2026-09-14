@@ -70,17 +70,17 @@
           "url": "/blog/"
         },
         {
-          "enable": false,
+          "enable": true,
           "name": "About Us",
           "url": "#"
         },
         {
-          "enable": false,
+          "enable": true,
           "name": "Careers",
           "url": "#"
         },
         {
-          "enable": false,
+          "enable": true,
           "name": "Contact",
           "url": "#"
         }

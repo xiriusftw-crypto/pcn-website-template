@@ -4,22 +4,22 @@
       "enable": true,
       "label": "facebook",
       "icon": "/images/icons/facebook.svg",
-      "url": "https://www.facebook.com"
+      "url": "https://www.facebook.com/share/1CWMXvwzA9"
     },
     {
       "enable": true,
       "label": "twitter",
       "icon": "/images/icons/twitter.svg",
-      "url": "https://twitter.com"
+      "url": "https://x.com/pcnarena"
     },
     {
       "enable": true,
       "label": "instagram",
       "icon": "/images/icons/instagram.svg",
-      "url": "https://www.instagram.com"
+      "url": "https://www.instagram.com/pcnarena"
     },
     {
-      "enable": true,
+      "enable": false,
       "label": "linkedin",
       "icon": "/images/icons/linkedin.svg",
       "url": "https://www.linkedin.com"
