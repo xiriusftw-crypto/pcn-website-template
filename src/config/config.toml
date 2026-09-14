@@ -4,7 +4,7 @@
   description      = "PCN Communication is a IT and Financial Services provider, based in North Bengal." # Shared description for SEO and OpenGraph
   tagline          = "Connecting people and aspirations."
   taglineSeparator = "" # default is " - "
-  baseUrl          = "https://techlo-lite-astro.pages.dev/" # Base URL for the site and used in OpenGraph meta tags.
+  baseUrl          = "https://pcncommunication.com/" # Base URL for the site and used in OpenGraph meta tags.
   logo             = "/images/new-logo.svg" # Path to the site's logo
   logoAlternate    = "" # Path to the site's logo
   logoText         = "PCN" # Text displayed next to the logo
