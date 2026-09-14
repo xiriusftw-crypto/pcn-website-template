@@ -8,8 +8,8 @@
   logo             = "/images/new-logo.svg" # Path to the site's logo
   logoAlternate    = "" # Path to the site's logo
   logoText         = "PCN" # Text displayed next to the logo
-  logoWidth        = "24px" # Width of the logo
-  logoHeight       = "36px" # Height of the logo
+  logoWidth        = "34px" # Width of the logo
+  logoHeight       = "34px" # Height of the logo
 
   # Add a trailing slash at the end of URLs (e.g., https://example.com/, https://example.com/contact/)˝
   # Note: Manually restart your server when you change this value
@@ -122,7 +122,7 @@
     phone       = "[(+91) 7797971747](tel:7797971747)"
     email       = "[info@pcncommunication.com](mailto:info@pcncommunication.com)"
     address     = "South Birnagar, Raiganj <br /> Uttar Dinajpur, West Bengal 733134"
-    officeHours = "Office Hours: 8:00 AM – 10:00 PM"
+    officeHours = "Office Hours: 8:00 AM – 6:00 PM"
 
   # Header Offcanvas Configuration
   # Update social links in `src/config/social.json`
